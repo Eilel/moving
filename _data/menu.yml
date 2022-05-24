@@ -1,0 +1,19 @@
+#Menu Organization
+
+- title: About
+  link: /about/
+
+- title: Physics
+  link: /physics/
+
+- title: Philosophy
+  link: /Philosophy/
+
+- title: Poetry
+  link: /poetry/
+
+- title: Misc
+  link: /miscellaneous/
+
+- title: Project E
+  link: /project-e/

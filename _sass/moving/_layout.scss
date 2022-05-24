@@ -143,11 +143,13 @@
 
 .home-title {
   margin-top: -10px;
+  text-align: center;
 }
 
 .home-heading {
   font-weight: 1000;
   color: lighten($text-color, 15%);
+  text-align: center;
 
   @media (max-width: 500px) {
     margin-top: 20px;
@@ -169,7 +171,17 @@
 }
 
 .post-list {
-  margin-top: 2.5rem;
+  margin-top: 10rem;
+  margin-left: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: $spacing-unit / 12;
+  }
+}
+
+.page-list {
+  margin-top: 10rem;
   margin-left: 0;
   list-style: none;
 
@@ -341,6 +353,25 @@
   }
 
   .about-content {
+    margin-top: 2rem;
+  }
+}
+
+/**
+ * Standard Page
+ */
+ .page {
+  display: inline-block;
+
+  .page-header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+
+  }
+
+  .page-content {
     margin-top: 2rem;
   }
 }

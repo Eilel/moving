@@ -2,7 +2,7 @@
 layout: post
 title: "Post Content Styles"
 categories: junk
-author: "Yizheng Huang"
+author: "Fayçal"
 meta: "Springfield"
 ---
 
