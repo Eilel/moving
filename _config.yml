@@ -1,7 +1,7 @@
 title: ello ~ # The title of the blog
 author: Fayçal # Your name 
 email: hey@fayçal.io # your email shown in the footer
-url: //fayçal.io # this is your site's root address.
+url: https://www.xn--fayal-0ra.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
  
 favicon: "./favicon.ico" # set the favicon of the site 
