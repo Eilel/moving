@@ -1,6 +1,6 @@
 title: ello ~ # The title of the blog
 author: Fayçal # Your name 
-email: hey@fayçal.io # your email shown in the footer
+email: none # your email shown in the footer
 url: https://xn--fayal-0ra.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
  

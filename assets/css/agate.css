@@ -106,3 +106,10 @@
   color: inherit;
   text-decoration: underline;
 }
+
+body {
+  background-image: url("../img/Drawing_02.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: contain;
+}  
